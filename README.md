@@ -3,6 +3,7 @@
 ## Books
 
 * [Docs for Developers](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161/)
+* [Modern Technical Writing](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/)
 * [The Product is Docs](https://www.amazon.com/Product-Docs-technical-documentation-development-ebook/dp/B085KHTV95/)
 
 ## Inspiration
