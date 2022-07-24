@@ -58,6 +58,7 @@
 
 ## Syntax highlighting
 
+- [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
 - [Shiki](https://github.com/shikijs/shiki)
 - [snappify](https://snappify.io/)
 - [Torchlight](https://torchlight.dev)
