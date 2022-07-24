@@ -39,6 +39,7 @@
 ### Self-hosted
 
 - [docsify](https://docsify.js.org/)
+- [Docusaurus](https://docusaurus.io/)
 - [docz](https://www.docz.site/)
 - [GitBook](https://github.com/GitbookIO/gitbook) (legacy)
 - [KitDocs](https://kit-docs.svelteness.dev/)
@@ -58,6 +59,8 @@
 
 ## Syntax highlighting
 
+- [highlight.js](https://highlightjs.org/)
+- [Prism](https://prismjs.com/)
 - [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
 - [Shiki](https://github.com/shikijs/shiki)
 - [snappify](https://snappify.io/)
