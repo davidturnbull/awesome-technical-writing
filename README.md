@@ -1,10 +1,14 @@
 # awesome-technical-writing
 
+## Blogs
+
 ## Books
 
 * [Docs for Developers](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161/)
 * [Modern Technical Writing](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/)
 * [The Product is Docs](https://www.amazon.com/Product-Docs-technical-documentation-development-ebook/dp/B085KHTV95/)
+
+## Courses
 
 ## Inspiration
 
@@ -32,6 +36,8 @@
 - [Statamic](https://statamic.dev/)
 - [Stripe](https://stripe.com/docs)
 - [Tailwind](https://tailwindcss.com/docs)
+
+## Podcasts
 
 ## Publishing
 
@@ -72,3 +78,5 @@
 - [Shiki](https://github.com/shikijs/shiki)
 - [snappify](https://snappify.io/)
 - [Torchlight](https://torchlight.dev)
+
+## Videos
