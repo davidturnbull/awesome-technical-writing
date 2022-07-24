@@ -2,9 +2,20 @@
 
 ## Inspiration
 
+### Blog posts
+
+- [The CSS Cascade](https://wattenberger.com/blog/css-cascade)
+- [How to build undo/redo in a multiplayer environment](https://liveblocks.io/blog/how-to-build-undo-redo-in-a-multiplayer-environment)
+- [Rebuilding Babel: The Tokenizer](https://www.nan.fyi/tokenizer)
+- [Using React with D3.js](https://wattenberger.com/blog/react-and-d3)
+
+### Documentation websites
+
 - [Auth0](https://auth0.com/docs/)
 - [GitHub](https://docs.github.com/en)
 - [Chakra UI](https://chakra-ui.com/docs/getting-started)
+- [Expo](https://docs.expo.dev/)
+- [Framer Motion](https://www.framer.com/docs/introduction/)
 - [Ghost](https://ghost.org/docs/introduction/)
 - [Hasura](https://hasura.io/docs/latest/index/)
 - [Keystone](https://keystonejs.com/docs)
@@ -29,7 +40,7 @@
 
 - [docsify](https://docsify.js.org/)
 - [docz](https://www.docz.site/)
-- [GitBoook](https://github.com/GitbookIO/gitbook) (legacy)
+- [GitBook](https://github.com/GitbookIO/gitbook) (legacy)
 - [KitDocs](https://kit-docs.svelteness.dev/)
 
 ## Sandboxes
