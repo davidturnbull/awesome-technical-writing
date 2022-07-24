@@ -62,6 +62,7 @@
 - [highlight.js](https://highlightjs.org/)
 - [Prism](https://prismjs.com/)
 - [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
+- [Rehype Pretty Code](https://rehype-pretty-code.netlify.app/)
 - [Shiki](https://github.com/shikijs/shiki)
 - [snappify](https://snappify.io/)
 - [Torchlight](https://torchlight.dev)
