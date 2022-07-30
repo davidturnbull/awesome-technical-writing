@@ -37,6 +37,14 @@
 - [Stripe](https://stripe.com/docs)
 - [Tailwind](https://tailwindcss.com/docs)
 
+## Generators
+
+### TypeScript
+
+- [API Extractor](https://api-extractor.com/pages/overview/intro/)
+- [DTS Docs](https://github.com/marcusolsson/dts-docs)
+- [TypeDoc](https://github.com/TypeStrong/typedoc)
+
 ## Podcasts
 
 ## Publishing
@@ -60,6 +68,7 @@
 
 - [CodeSandbox](https://codesandbox.io/)
 - [CodePen](https://codepen.io/)
+- [Devbook](https://www.usedevbook.com/)
 - [Replit](https://replit.com/)
 - [Sandpack](https://github.com/codesandbox/sandpack)
 - [StackBlitz](https://stackblitz.com/)
