@@ -18,6 +18,7 @@
 - [How to build undo/redo in a multiplayer environment](https://liveblocks.io/blog/how-to-build-undo-redo-in-a-multiplayer-environment)
 - [Rebuilding Babel: The Tokenizer](https://www.nan.fyi/tokenizer)
 - [Using React with D3.js](https://wattenberger.com/blog/react-and-d3)
+- [Which Blend Mode?](https://www.ctnicholas.dev/articles/which-blend-mode)
 
 ### Documentation websites
 
@@ -87,5 +88,10 @@
 - [Shiki](https://github.com/shikijs/shiki)
 - [snappify](https://snappify.io/)
 - [Torchlight](https://torchlight.dev)
+
+## Utilities
+
+* [broken-link-checker](https://github.com/stevenvachon/broken-link-checker)
+* [linkinator](https://github.com/JustinBeckwith/linkinator)
 
 ## Videos
