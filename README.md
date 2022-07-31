@@ -45,6 +45,8 @@
 
 ## Generators
 
+- [doctree](https://github.com/sourcegraph/doctree) 
+
 ### TypeScript
 
 - [API Extractor](https://api-extractor.com/pages/overview/intro/)
@@ -69,6 +71,7 @@
 - [DeveloperHub](https://developerhub.io)
 - [ReactiveDoc](https://reactivedoc.com/)
 - [ReadMe](https://readme.com)
+- [Theneo](https://www.theneo.io/)
 
 ### Self-hosted
 
@@ -82,14 +85,22 @@
 
 - [Liqvid](https://liqvidjs.org/)
 - [Scribe](https://scribehow.com/)
+- [storyteller](https://marketplace.visualstudio.com/items?itemName=markm208.storyteller)
 - [Tango](https://www.tango.us/)
 - [TextFrame](https://textframe.app/)
+- [WalkThru](https://walkthru.netlify.app/)
+
+## Presentations
+
+- [Code Hike](https://codehike.org/)
+- [Code Surfer](https://github.com/pomber/code-surfer)
 
 ## Sandboxes
 
 - [CodeSandbox](https://codesandbox.io/)
 - [CodePen](https://codepen.io/)
 - [Devbook](https://www.usedevbook.com/)
+- [Gitpod](https://www.gitpod.io/)
 - [Replit](https://replit.com/)
 - [Runno](https://runno.dev)
 - [Sandpack](https://github.com/codesandbox/sandpack)
@@ -98,6 +109,7 @@
 ## Screenshots
 
 - [shot-scraper](https://github.com/simonw/shot-scraper)
+- [UserDocs](https://github.com/user-docs/userdocs_clients)
 
 ## Style guides
 
