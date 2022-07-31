@@ -38,6 +38,11 @@
 - [Stripe](https://stripe.com/docs)
 - [Tailwind](https://tailwindcss.com/docs)
 
+## Diagrams
+
+- [Excalidraw](https://excalidraw.com/)
+- [OneModel](https://www.onemodel.app/)
+
 ## Generators
 
 ### TypeScript
@@ -50,11 +55,19 @@
 
 ## Publishing
 
+### CLI
+
+- [HastyScribe](https://github.com/h3rald/hastyscribe)
+- [Pandoc](https://pandoc.org/)
+
 ### Hosted
 
+- [AlertClass](https://alterclass.io/)
 - [Archbee](https://www.archbee.com/)
+- [docs.page](https://docs.page/)
 - [GitBook](https://gitbook.com)
 - [DeveloperHub](https://developerhub.io)
+- [ReactiveDoc](https://reactivedoc.com/)
 - [ReadMe](https://readme.com)
 
 ### Self-hosted
@@ -65,14 +78,26 @@
 - [GitBook](https://github.com/GitbookIO/gitbook) (legacy)
 - [KitDocs](https://kit-docs.svelteness.dev/)
 
+## Other
+
+- [Liqvid](https://liqvidjs.org/)
+- [Scribe](https://scribehow.com/)
+- [Tango](https://www.tango.us/)
+- [TextFrame](https://textframe.app/)
+
 ## Sandboxes
 
 - [CodeSandbox](https://codesandbox.io/)
 - [CodePen](https://codepen.io/)
 - [Devbook](https://www.usedevbook.com/)
 - [Replit](https://replit.com/)
+- [Runno](https://runno.dev)
 - [Sandpack](https://github.com/codesandbox/sandpack)
 - [StackBlitz](https://stackblitz.com/)
+
+## Screenshots
+
+- [shot-scraper](https://github.com/simonw/shot-scraper)
 
 ## Style guides
 
@@ -94,5 +119,11 @@
 * [broken-link-checker](https://github.com/stevenvachon/broken-link-checker)
 * [curlconverter](https://github.com/curlconverter/curlconverter)
 * [linkinator](https://github.com/JustinBeckwith/linkinator)
+
+### SSH tunnelling
+
+* [expose.dev](https://expose.dev/)
+* [expose.sh](https://expose.sh/)
+* [ngrok](https://ngrok.com/)
 
 ## Videos
