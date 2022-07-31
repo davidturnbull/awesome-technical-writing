@@ -115,8 +115,12 @@
 
 ## Style guides
 
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
+- [GitLab](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 - [Google](https://developers.google.com/style)
+- [MDN](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Writing_style_guide)
 - [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/)
+- [Splunk](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Howtouse)
 
 ## Syntax highlighting
 
