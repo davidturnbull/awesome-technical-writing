@@ -92,6 +92,7 @@
 ## Utilities
 
 * [broken-link-checker](https://github.com/stevenvachon/broken-link-checker)
+* [curlconverter](https://github.com/curlconverter/curlconverter)
 * [linkinator](https://github.com/JustinBeckwith/linkinator)
 
 ## Videos
