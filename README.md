@@ -26,6 +26,7 @@
 - [GitHub](https://docs.github.com/en)
 - [Chakra UI](https://chakra-ui.com/docs/getting-started)
 - [Expo](https://docs.expo.dev/)
+- [Family](https://docs.family.co/connectkit)
 - [Framer Motion](https://www.framer.com/docs/introduction/)
 - [Ghost](https://ghost.org/docs/introduction/)
 - [Hasura](https://hasura.io/docs/latest/index/)
@@ -42,6 +43,7 @@
 
 - [Excalidraw](https://excalidraw.com/)
 - [OneModel](https://www.onemodel.app/)
+- [tldraw](https://www.tldraw.com/)
 
 ## Generators
 
@@ -85,6 +87,7 @@
 ## Other
 
 - [Liqvid](https://liqvidjs.org/)
+- [Mintlify](https://www.mintlify.com/)
 - [Scribe](https://scribehow.com/)
 - [storyteller](https://marketplace.visualstudio.com/items?itemName=markm208.storyteller)
 - [Tango](https://www.tango.us/)
