@@ -2,7 +2,9 @@
 
 ## Articles
 
+- [Code blocks, but better](https://ped.ro/writing/code-blocks-but-better)
 - [How to Write Better with The Why, What, How Framework](https://eugeneyan.com/writing/writing-docs-why-what-how/)
+- [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 - [Technical Writing: a bibliography, tips, and tricks](https://pivic.blog/blog/technical-writing/)
 
 ## Ask HN
@@ -28,6 +30,7 @@
 - [Rebuilding Babel: The Tokenizer](https://www.nan.fyi/tokenizer)
 - [Using React with D3.js](https://wattenberger.com/blog/react-and-d3)
 - [Which Blend Mode?](https://www.ctnicholas.dev/articles/which-blend-mode)
+- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 
 ### Documentation websites
 
@@ -63,6 +66,10 @@
 - [API Extractor](https://api-extractor.com/pages/overview/intro/)
 - [DTS Docs](https://github.com/marcusolsson/dts-docs)
 - [TypeDoc](https://github.com/TypeStrong/typedoc)
+
+## Markup languages
+
+= [djot](https://github.com/jgm/djot)
 
 ## Podcasts
 
