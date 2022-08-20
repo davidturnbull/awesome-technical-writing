@@ -109,6 +109,7 @@
 - [Tango](https://www.tango.us/)
 - [TextFrame](https://textframe.app/)
 - [WalkThru](https://walkthru.netlify.app/)
+- [twoSlash](https://github.com/shikijs/twoslash)
 
 ## Placeholder APIs
 
