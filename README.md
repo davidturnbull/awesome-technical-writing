@@ -155,6 +155,7 @@
 - [Rehype Pretty Code](https://rehype-pretty-code.netlify.app/)
 - [Shiki](https://github.com/shikijs/shiki)
 - [snappify](https://snappify.io/)
+- [starry-night](https://github.com/wooorm/starry-night)
 - [Torchlight](https://torchlight.dev)
 
 ## Utilities
