@@ -1,5 +1,14 @@
 # awesome-technical-writing
 
+## Articles
+
+- [How to Write Better with The Why, What, How Framework](https://eugeneyan.com/writing/writing-docs-why-what-how/)
+- [Technical Writing: a bibliography, tips, and tricks](https://pivic.blog/blog/technical-writing/)
+
+## Ask HN
+
+- [Ask HN: Any great books about technical writing?](https://news.ycombinator.com/item?id=32342493)
+
 ## Blogs
 
 ## Books
@@ -94,6 +103,10 @@
 - [TextFrame](https://textframe.app/)
 - [WalkThru](https://walkthru.netlify.app/)
 
+## Placeholder APIs
+
+- [json-server](https://github.com/typicode/json-server)
+
 ## Presentations
 
 - [Code Hike](https://codehike.org/)
@@ -147,5 +160,11 @@
 * [expose.dev](https://expose.dev/)
 * [expose.sh](https://expose.sh/)
 * [ngrok](https://ngrok.com/)
+
+## UI components
+
+### React
+
+- [Devbook UI](https://github.com/devbookhq/ui)
 
 ## Videos
