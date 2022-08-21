@@ -51,7 +51,7 @@
 - [Stripe](https://stripe.com/docs)
 - [Tailwind](https://tailwindcss.com/docs)
 
-## Diagrams
+## Diagramming tools
 
 - [Excalidraw](https://excalidraw.com/)
 - [OneModel](https://www.onemodel.app/)
@@ -69,7 +69,7 @@
 
 ## Markup languages
 
-= [djot](https://github.com/jgm/djot)
+- [djot](https://github.com/jgm/djot)
 
 ## Podcasts
 
@@ -82,7 +82,7 @@
 
 ### Hosted
 
-- [AlertClass](https://alterclass.io/)
+- [Alterclass](https://alterclass.io/)
 - [Archbee](https://www.archbee.com/)
 - [docs.page](https://docs.page/)
 - [GitBook](https://gitbook.com)
@@ -109,11 +109,12 @@
 - [Tango](https://www.tango.us/)
 - [TextFrame](https://textframe.app/)
 - [WalkThru](https://walkthru.netlify.app/)
-- [twoSlash](https://github.com/shikijs/twoslash)
+- [twoslash](https://github.com/shikijs/twoslash)
 
 ## Placeholder APIs
 
 - [json-server](https://github.com/typicode/json-server)
+- [webhook.site](https://webhook.site/)
 
 ## Presentations
 
